@@ -1,9 +1,3 @@
-// Hello.
-//
-// This is The Scripts used for Awesome Photography/Portfolio Template
-//
-//
-
 function main() {
 
 (function () {
